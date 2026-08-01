@@ -1,436 +1,251 @@
-**🚀 LangChain Project | Enterprise AI Applications with LangChain | LLMs • Chat Models • RAG • AI Agents • Prompt Engineering • Python**
+<div align="center">
 
-<p align="left"> <img src="https://img.shields.io/badge/LangChain-AI_Framework-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenAI-LLM-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/Anthropic-Claude-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge"/> <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge"/> <br> <img src="https://img.shields.io/badge/LLMs-Learning-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Chat_Models-Conversational_AI-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Embeddings-Vector_Search-important?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-AI-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-purple?style=for-the-badge"/> <br> <img src="https://img.shields.io/badge/Chains-LangChain-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Runnable-LCEL-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Output-Parsers-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Structured_Output-Pydantic-informational?style=for-the-badge"/> <img src="https://img.shields.io/badge/Document_Loaders-PDF_CSV_Web-brightgreen?style=for-the-badge"/> <br> <img src="https://img.shields.io/badge/Text_Splitters-Recursive-yellowgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector_Database-ChromaDB-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Retrievers-Semantic_Search-9cf?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tool_Calling-Agents-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter_Notebook-Learning-orange?style=for-the-badge"/> <br> <img src="https://img.shields.io/badge/AI-Engineering-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative_AI-LLMs-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Production_Ready-Learning-important?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open_Source-GitHub-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Portfolio-Project-success?style=for-the-badge"/> </p>
+# 🚀 LangChain Project — Enterprise AI Applications with Python
 
-🌟 Project Overview
+### Building Production-Grade LLM, RAG & AI Agent Systems using the LangChain Framework
 
-Artificial Intelligence is rapidly transforming how modern software is built. Today's applications are no longer limited to traditional APIs—they are powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Embeddings, Prompt Engineering, and Vector Databases.
+<p>
+  <img src="https://img.shields.io/badge/LangChain-AI_Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-This repository demonstrates the practical implementation of the LangChain Framework through a collection of real-world examples covering the core building blocks required to develop enterprise-grade AI applications.
+<p>
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-Tool_Calling-FF4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_DB-ChromaDB-00A67E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LCEL-Runnable_Architecture-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Structured_Output-Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
 
-Rather than focusing on isolated snippets, the repository is organized around complete implementations that showcase how modern AI systems are designed, connected, and orchestrated using LangChain.
+<p>
+  <img src="https://img.shields.io/github/stars/ArpitChoubey/Langchain-Project-Using-Python?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/forks/ArpitChoubey/Langchain-Project-Using-Python?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/last-commit/ArpitChoubey/Langchain-Project-Using-Python?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively_Maintained-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge"/>
+</p>
 
-Whether you're an AI Engineer, Software Engineer, SDET, QA Automation Engineer, or someone exploring Generative AI, this repository provides practical examples of how LangChain components work together to build intelligent applications.
+**🔗 Repository:** [github.com/ArpitChoubey/Langchain-Project-Using-Python](https://github.com/ArpitChoubey/Langchain-Project-Using-Python)
 
-🎯 Why This Repository Matters
+</div>
 
-Modern organizations are investing heavily in AI-powered software such as:
+---
 
-🤖 AI Agents
-💬 Intelligent Chatbots
-📚 Retrieval-Augmented Generation (RAG)
-🔍 Enterprise Search
-🧠 Knowledge Assistants
-📄 AI Document Processing
-🛠 AI Workflow Automation
-💻 AI Coding Assistants
-🏢 Internal Enterprise Copilots
-📈 AI Decision Support Systems
+## 📌 Overview
 
-Building these systems requires much more than calling an LLM API.
+Modern software is no longer just APIs and databases — it's powered by **Large Language Models, Retrieval-Augmented Generation, AI Agents, and Vector Search**. This repository is a hands-on, end-to-end implementation of the **LangChain framework**, built to demonstrate how real AI systems are designed, connected, and orchestrated — not just isolated code snippets.
 
-This repository demonstrates the practical engineering patterns used to create scalable, modular, and maintainable AI applications using the LangChain ecosystem.
+It's organized as a **complete learning path**: from raw LLM calls to fully functional RAG pipelines and tool-calling AI agents, using production-inspired patterns and clean, modular Python.
 
-🚀 Repository Highlights
+> 💡 **For Recruiters, Hiring Managers & QA Leaders:** This repository is a practical skills showcase. In a few minutes you can verify hands-on experience with the exact tools and concepts driving today's AI Engineering, GenAI, and AI-Test-Automation job requirements — see the [Recruiter Snapshot](#-recruiter--hiring-manager-snapshot) below.
 
-✔ Large Language Models (LLMs)
+---
 
-✔ Chat Models
+## 🎯 Why This Repository Matters
 
-✔ Embedding Models
+Organizations are rapidly investing in:
 
-✔ Prompt Engineering
+| 🤖 AI Agents | 💬 Intelligent Chatbots | 📚 RAG Systems |
+|---|---|---|
+| 🔍 Enterprise Search | 🧠 Knowledge Assistants | 📄 AI Document Processing |
+| 🛠 AI Workflow Automation | 💻 AI Coding Assistants | 📈 AI Decision Support |
 
-✔ Prompt Templates
+Building these systems takes more than calling an LLM API — it requires understanding **prompt design, embeddings, retrieval, chaining, structured output, and agentic tool use.** This repo demonstrates exactly that, using scalable and maintainable engineering patterns from the LangChain ecosystem.
 
-✔ Structured Output
+---
 
-✔ Output Parsers
+## 📂 Repository Structure
 
-✔ LangChain Chains
-
-✔ Runnable Architecture (LCEL)
-
-✔ Document Loading
-
-✔ Text Splitting
-
-✔ Semantic Search
-
-✔ Vector Databases
-
-✔ Chroma Integration
-
-✔ Retrieval-Augmented Generation (RAG)
-
-✔ AI Agents
-
-✔ Tool Calling
-
-✔ Production-inspired Repository Structure
-
-✔ Modular Python Examples
-
-✔ Enterprise AI Development Concepts
-
-📂 Repository Structure
-Langchain-Project
-
+```
+Langchain-Project-Using-Python
 │
 ├── 1. LLMs
-│
 ├── 2. Chat Models
-│
 ├── 3. Embedding Models
-│
 ├── 4. Prompts
-│
 ├── 5. Structured Output
-│
 ├── 6. Output Parsers
-│
 ├── 7. Chains
-│
 ├── 8. Runnable
-│
 ├── 9. Document Loading
-│
 ├── 10. Text Splitter
 │
 ├── agents_in_langchain.ipynb
-│
 ├── langchain_chroma.ipynb
-│
 ├── langchain_retrievers.ipynb
-│
 ├── rag_using_langchain.ipynb
-│
 ├── tools_in_langchain.ipynb
-│
 ├── tool_calling_in_langchain.ipynb
 │
 ├── requirement.txt
-│
 └── README.md
+```
 
+---
 
-📚 Learning Modules
-📖 Module 1 — Large Language Models (LLMs)
+## 📚 Learning Modules
 
-Explore how traditional language models generate text.
+### 📖 1. Large Language Models (LLMs)
+LLM initialization · model invocation · response generation · basic prompt execution
 
-Topics include:
+### 💬 2. Chat Models
+OpenAI · Anthropic Claude · Google Gemini · Hugging Face — system/user/assistant message flows
 
-LLM initialization
-Model invocation
-Response generation
-Basic prompt execution
+### 🧠 3. Embedding Models
+OpenAI & Hugging Face embeddings · document similarity · semantic search · foundation for RAG & vector search
 
+### ✍️ 4. Prompt Engineering
+Prompt templates · chat prompts · dynamic prompts · message placeholders · temperature tuning · prompt generators
 
-💬 Module 2 — Chat Models
+### 📦 5. Structured Output
+TypedDict · JSON Schema · Pydantic models — for reliable APIs, automation & data extraction
 
-Understand conversational AI.
+### 🔍 6. Output Parsers
+JSON, Pydantic, structured, and string output parsers to convert raw LLM text into usable data
 
-Examples include:
+### 🔗 7. Chains
+Sequential · Parallel · Conditional · Simple chains for multi-step AI workflows
 
-OpenAI Chat Models
-Anthropic Claude
-Google Gemini
-Hugging Face Chat Models
+### ⚡ 8. Runnable (LCEL)
+Runnable Sequence · Branch · Lambda · Parallel · Passthrough — LangChain's composition interface
 
-Topics covered:
+### 📄 9. Document Loading
+PDF · CSV · Text · Web · Directory loaders — the entry point for any RAG pipeline
 
-Chat messages
-System prompts
-User prompts
-Assistant responses
+### ✂️ 10. Text Splitters
+Recursive · Semantic · Markdown · Code · Length-based splitting for optimal vector storage
 
+---
 
-🧠 Module 3 — Embedding Models
+## 🤖 Additional AI Implementations
 
-Learn semantic representation of text.
+- **AI Agents** with reasoning and decision-making
+- **Tool Calling** for external function execution
+- **LangChain Retrievers** for semantic document retrieval
+- **ChromaDB Integration** as a production-style vector store
+- **Full RAG Pipeline** — from document ingestion to grounded LLM answers
 
-Examples include:
+---
 
-OpenAI Embeddings
-Hugging Face Embeddings
-Document Similarity
-Semantic Search
+## 🛠 Tech Stack
 
-Applications:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-00A67E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
-Vector Search
-RAG
-Knowledge Retrieval
+---
 
+## ⚙️ Getting Started
 
+```bash
+# Clone the repository
+git clone https://github.com/ArpitChoubey/Langchain-Project-Using-Python.git
+cd Langchain-Project-Using-Python
 
-✍️ Module 4 — Prompt Engineering
+# Create a virtual environment
+python -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
 
-Explore different prompting strategies.
+# Install dependencies
+pip install -r requirement.txt
 
-Examples include:
+# Add your API keys (OpenAI / Anthropic / Google) to a .env file
+# Then open any notebook module and run it in Jupyter
+jupyter notebook
+```
 
-Prompt Templates
-Chat Prompts
-Dynamic Prompts
-Message Placeholders
-Temperature Configuration
-Prompt Generators
+---
 
+## 📈 Recruiter & Hiring Manager Snapshot
 
+At a glance, this repository verifies hands-on experience with:
 
-📦 Module 5 — Structured Output
+| Category | Skills Demonstrated |
+|---|---|
+| **Core AI Frameworks** | LangChain, LCEL/Runnable Architecture, Chains |
+| **LLM Providers** | OpenAI, Anthropic Claude, Google Gemini, Hugging Face |
+| **AI Application Patterns** | RAG, AI Agents, Tool Calling, Structured Output |
+| **Data Engineering for AI** | Document Loaders, Text Splitters, Embeddings, Vector Search |
+| **Vector Infrastructure** | ChromaDB, Semantic Retrieval |
+| **Engineering Practices** | Modular design, reusable components, clean project structure |
+| **Language & Tooling** | Python, Jupyter Notebook, Pydantic |
 
-Generate predictable AI responses.
+---
 
-Topics include:
+## 🧪 Especially Relevant For QA Leads & QA Managers
 
-TypedDict
-JSON Schema
-Pydantic
-Structured Responses
+As AI capabilities move into products, **testing AI-powered systems is becoming a core QA discipline.** This repository is directly useful for evaluating or building:
 
-Useful for:
+- ✅ Test strategies for **LLM-based chatbots and RAG pipelines**
+- ✅ Understanding of **non-deterministic output validation** (structured output & parsers)
+- ✅ Familiarity with **AI agent tool-calling flows** that QA teams need to validate end-to-end
+- ✅ A foundation for integrating **AI evaluation frameworks** (e.g., DeepEval) into CI/CD test suites
+- ✅ Practical context for writing **automation strategies around GenAI features**, not just traditional UI/API testing
 
-APIs
-Automation
-AI Applications
-Data Extraction
+---
 
+## 🎯 Ideal For
 
+AI Engineers · Generative AI Engineers · Software Engineers · QA Automation Engineers · SDETs · AI Test Engineers · LLM Engineers · Prompt Engineers · Students learning LangChain · Recruiters & Hiring Managers evaluating AI skills
 
-🔍 Module 6 — Output Parsers
+---
 
-Convert AI responses into structured data.
+## 🚀 Roadmap / Future Enhancements
 
-Examples include:
+- [ ] LangGraph Workflows
+- [ ] Multi-Agent Systems
+- [ ] MCP (Model Context Protocol) Integration
+- [ ] DeepEval — AI Agent Evaluation
+- [ ] Memory Management
+- [ ] Pinecone & FAISS Vector Stores
+- [ ] Streaming Responses
+- [ ] Docker Support
+- [ ] GitHub Actions CI/CD Pipelines
+- [ ] Production Observability
+- [ ] Advanced RAG Patterns
 
-JSON Output Parser
-Pydantic Output Parser
-Structured Output Parser
-String Output Parser
+---
 
+## 👨‍💻 About Me
 
-
-🔗 Module 7 — Chains
-
-Learn how multiple AI operations work together.
-
-Examples include:
-
-Sequential Chains
-Parallel Chains
-Conditional Chains
-Simple Chains
-
-
-
-⚡ Module 8 — Runnable
-
-Explore LangChain's Runnable interface.
-
-Examples include:
-
-Runnable Sequence
-Runnable Branch
-Runnable Lambda
-Runnable Parallel
-Runnable Passthrough
-
-
-
-📄 Module 9 — Document Loading
-
-Understand how external knowledge is ingested.
-
-Examples include:
-
-PDF Loader
-CSV Loader
-Text Loader
-Web Loader
-Directory Loader
-
-These modules form the foundation for Retrieval-Augmented Generation (RAG).
-
-
-
-✂️ Module 10 — Text Splitters
-
-Learn how large documents are prepared for vector databases.
-
-Examples include:
-
-Markdown Splitter
-Code Splitter
-Semantic Splitter
-Recursive Splitter
-Length-based Splitter
-
-
-🤖 Additional AI Projects Included
-
-The repository also includes practical implementations of:
-
-AI Agents
-Tool Calling
-LangChain Retrievers
-Chroma Vector Database
-Retrieval-Augmented Generation (RAG)
-🛠 Technologies Used
-Python
-LangChain
-OpenAI
-Anthropic Claude
-Google Gemini
-Hugging Face
-ChromaDB
-Jupyter Notebook
-Vector Embeddings
-
-
-
-
-🚀 Skills Demonstrated
-
-This repository demonstrates practical experience with:
-
-LangChain Framework
-Prompt Engineering
-Large Language Models
-Chat Models
-Embedding Models
-AI Application Development
-Retrieval-Augmented Generation
-Vector Search
-AI Agents
-Tool Calling
-Structured Output
-Output Parsing
-Chains
-Runnable Architecture
-Document Processing
-Semantic Search
-
-
-
-💼 Why This Repository Matters
-
-Many LangChain repositories focus on individual examples or isolated tutorials.
-
-This repository is structured as a complete learning path, helping readers understand how individual LangChain components fit together to build production-style AI applications.
-
-It demonstrates:
-
-Modular organization
-Practical implementation
-Incremental learning
-Clean project structure
-Reusable examples
-Hands-on experimentation
-🎯 Ideal For
-
-This repository is valuable for:
-
-AI Engineers
-Generative AI Engineers
-Software Engineers
-QA Automation Engineers
-SDETs
-AI Test Engineers
-LLM Engineers
-Prompt Engineers
-Students learning LangChain
-Recruiters evaluating AI skills
-📈 Recruiter Snapshot
-
-Within a few minutes, recruiters and hiring managers can identify hands-on experience with:
-
-✅ LangChain
-✅ Python
-✅ OpenAI
-✅ Anthropic Claude
-✅ Google Gemini
-✅ Prompt Engineering
-✅ Embedding Models
-✅ Chat Models
-✅ Structured Output
-✅ Output Parsers
-✅ Chains
-✅ Runnable Architecture
-✅ Document Loaders
-✅ Text Splitters
-✅ Retrieval-Augmented Generation (RAG)
-✅ Vector Databases
-✅ AI Agents
-✅ Tool Calling
-✅ ChromaDB
-✅ Modern AI Application Development
-🚀 Future Enhancements
-
-Planned additions include:
-
-LangGraph Workflows
-Multi-Agent Systems
-MCP (Model Context Protocol)
-DeepEval Integration
-AI Agent Evaluation
-Memory Management
-Pinecone Integration
-FAISS Vector Store
-Streaming Responses
-Docker Support
-GitHub Actions
-CI/CD Pipelines
-Production Observability
-Advanced RAG Patterns
-🌐 GitHub Repository
-
-Repository:
-🔗 https://github.com/ArpitChoubey/Langchain-Project
-
-👨‍💻 About Me
-
-Arpit Choubey
+**Arpit Choubey**
 Senior Software Development Engineer in Test (SDET) | AI Automation Engineer | Generative AI Enthusiast
 
-Areas of Expertise
-LangChain
-AI Agents
-Prompt Engineering
-Retrieval-Augmented Generation (RAG)
-DeepEval
-Playwright
-Selenium
-Python
-Java
-REST API Testing
-Docker
-Jenkins
-GitHub Actions
-CI/CD
+**Areas of Expertise:** LangChain · AI Agents · Prompt Engineering · Retrieval-Augmented Generation (RAG) · DeepEval · Playwright · Selenium · Python · Java · REST API Testing · Docker · Jenkins · GitHub Actions · CI/CD
 
+<p>
+  <a href="https://www.linkedin.com/in/arpit-choubey/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ArpitChoubey"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@ArpitChoubey9"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
 
+---
 
-🤝 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/arpit-choubey/
-💻 GitHub: https://github.com/ArpitChoubey
-✍️ Medium: https://medium.com/@ArpitChoubey9
+## ⭐ Support This Project
 
+If this repository helped you understand LangChain or supported your learning/job search:
 
+⭐ **Star** the repository · 🍴 **Fork** it · 💬 **Share feedback** · 🤝 **Connect** on LinkedIn
 
-⭐ Support
+Your support motivates continued work on practical **AI, QA Automation, Accessibility Testing, and Quality Engineering** projects for the developer and testing community.
 
-If you found this repository helpful:
+---
 
-⭐ Star the repository
-🍴 Fork it
-💬 Share your feedback
-🤝 Connect with me on LinkedIn
+<div align="center">
 
-Your support motivates me to continue building practical AI, QA Automation, Accessibility Testing, and Quality Engineering projects for the developer and testing community.
+### 💬 Final Thought
 
-💬 Final Thought
+*"Learning LangChain isn't just about calling an LLM API — it's about understanding the complete ecosystem of prompts, embeddings, retrieval, chains, runnables, agents, and structured outputs that power modern AI applications. This repository reflects a hands-on journey toward building production-ready AI solutions using LangChain."*
 
-"Learning LangChain isn't just about calling an LLM API—it's about understanding the complete ecosystem of prompts, embeddings, retrieval, chains, runnables, agents, and structured outputs that power modern AI applications. This repository reflects my hands-on journey toward building production-ready AI solutions using LangChain."
+</div>
